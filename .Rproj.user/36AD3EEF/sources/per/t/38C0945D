@@ -3,7 +3,7 @@
     "path": "~/GitHub/problem-set-2/code/code.r",
     "project_path": "code/code.r",
     "type": "r_source",
-    "hash": "14825893",
+    "hash": "1265329777",
     "contents": "",
     "dirty": false,
     "created": 1695824055521.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "52,62",
-        "scrollLine": "34"
+        "cursorPosition": "42,22",
+        "scrollLine": "35"
     },
     "folds": "",
-    "lastKnownWriteTime": 1695826424,
+    "lastKnownWriteTime": 1696212681,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1695826424695,
+    "last_content_update": 1696212681066,
     "read_only": false,
     "read_only_alternatives": []
 }

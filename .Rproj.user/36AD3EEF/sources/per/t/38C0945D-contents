@@ -23,7 +23,7 @@ list.files()
 
 ## 1.importar/exportar
 #importar bases de datos
-location <-       import(file= "input/Modulo de sitio o ubicacion.csv", encoding="UTF-8") 
+location <-     import(file= "input/Modulo de sitio o ubicacion.csv", encoding="UTF-8") 
 identification <- import(file= "input/Modulo de identificacion.csv", encoding="UTF-8") 
 
 #Exportar bases de datos
@@ -51,3 +51,4 @@ select(identification_sub, all_of(var_id))
 
 ##Combinar base de datos
 var_dbf = c("DIRECTORIO", "SECUENCIA_P", "SECUENCIA_ENCUESTA")
+db_final <- merge(identification_sub, location_sub, by = var_dbf)
