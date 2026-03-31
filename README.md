@@ -30,4 +30,4 @@ Si eres **colaborador** (no propietario) de un repositorio y deseas dejar de ten
 
 > **Nota:** Solo los propietarios del repositorio pueden eliminarlo por completo. Como colaborador, únicamente puedes dejar de participar en él.
 
-Para más información, consulta la [documentación oficial de GitHub](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-membership-in-organizations/removing-yourself-from-an-organization).
+Para más información, consulta la [documentación oficial de GitHub](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/removing-yourself-as-a-collaborator).
