@@ -1,6 +1,5 @@
 ## Daniel Felipe Riaño Barrera - 202112753
 ## Andrés Felipe Guevara Pineda - 202022636
-#Juan Kamilo Narvaez - 202113808
 R.version.string
 
 #Limpiar el entorno
